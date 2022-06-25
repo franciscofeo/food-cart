@@ -1,4 +1,4 @@
-package br.com.foodcart.command
+package br.com.foodcart.aggregate
 
 import br.com.foodcart.coreapi.ConfirmOrderCommand
 import br.com.foodcart.coreapi.CreateFoodCartCommand
